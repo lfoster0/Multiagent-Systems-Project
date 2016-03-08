@@ -1,0 +1,10 @@
+MAS mazeproject {
+
+	infrastructure: Centralised
+	environment: mazeproject.MazeController(100)
+	agents: ag0; ag1; ag2; ag3;
+	
+	aslSourcePath:
+		"src/asl";
+		
+}
