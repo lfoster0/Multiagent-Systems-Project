@@ -14,4 +14,4 @@ As they navigate through the maze they communicate asking each other to move out
 ![Block Types](http://i.imgur.com/hv4Ib03.png "Block Types")
 
 ### Screenshot
-![Screenshot](http://i.imgur.com/RWKawlJ.png "Screenshot")
+<img src="http://i.imgur.com/RWKawlJ.png" width="500">
